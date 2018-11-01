@@ -11,6 +11,6 @@ def method_name
 
 end
 
-def input_to_index(move)
+def input_to_index(moveName)
 
 end
