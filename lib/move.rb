@@ -13,4 +13,5 @@ end
 
 def input_to_index(moveName)
   index = moveName.to_i
+  return index
 end
