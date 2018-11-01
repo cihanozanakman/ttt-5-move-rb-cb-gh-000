@@ -13,5 +13,6 @@ end
 
 def input_to_index(moveName)
   index = moveName.to_i
+  index = index - 1
   return index
 end
